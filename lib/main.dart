@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
-      home: Tasbih(title: 'Tasbih',)//MyHomePage(title: 'Flutter Demo Home Page'),
+      home: Tasbih(title: 'Tasbih',)
     );
   }
 }
